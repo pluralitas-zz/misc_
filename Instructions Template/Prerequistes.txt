@@ -1,0 +1,13 @@
+Prerequisites:
+
+1) MikTeX - LaTeX typesetting system backend https://miktex.org/download
+2) TeXMaker - LaTeX IDE/Editor http://www.xm1math.net/texmaker/download.html
+
+* You can download other versions of the IDE/Editor eg. TeXLive, TeXWorks or use generic code editors, however IDEs allows you to compile within the program.
+* TexWorks is included in the MikTeX installer but recommends TeXMaker
+
+After completion you may convert it to .doc @ https://online2pdf.com/pdf2doc
+
+
+Documentation:
+https://www.sharelatex.com/learn/Main_Page
